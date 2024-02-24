@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162422560597",
+    "project_id": "tomatoproject-ed5d0",
+    "storage_bucket": "tomatoproject-ed5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162422560597:android:c960fcef5f539771a8c1dc",
+        "android_client_info": {
+          "package_name": "com.example.leafcarecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTx5KgZUvxSO4ZTk2Ahm83Rv6PpMkjYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
