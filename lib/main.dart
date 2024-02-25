@@ -3,6 +3,7 @@ import 'package:leafcare/start.dart';
 
 void main() {
   runApp(const MyApp());
+  print('mmmmmmmm');
 }
 
 class MyApp extends StatelessWidget {
